@@ -1,0 +1,26 @@
+# 忽略虛擬環境
+attack_sim_env/
+
+# 忽略編譯生成的文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略操作系統臨時文件
+.DS_Store
+Thumbs.db
+
+# 忽略 IDE/編輯器相關文件
+.vscode/
+.idea/
+*.swp
+
+# 忽略日誌文件
+*.log
+
+# 忽略敏感數據（如環境變數）
+.env
+
+# 忽略任何臨時文件
+*.tmp
+*.bak
