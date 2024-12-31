@@ -1,0 +1,7 @@
+python -m venv attack_sim_env
+
+.\attack_sim_env\Scripts\activate
+
+pip install -r requirements.txt
+
+deactivate #退出
